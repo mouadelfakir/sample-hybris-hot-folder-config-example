@@ -1,0 +1,1 @@
+# sample-hybris-hot-folder-config-example
